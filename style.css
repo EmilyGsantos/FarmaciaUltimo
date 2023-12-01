@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');/*Roboto*/
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');/*Inter*/
+
+*{
+    margin:0px;
+    padding:0px;
+    background-color:#A8DADC;
+}
+
+/*Home*/
+nav{
+    background-color: #ffffff;
+    height:40px;
+}
+
+h1{
+    text-align: center;
+    color:#1D3557;
+}
+
+p{
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size:24px;
+}
+
+.bnt-home{
+    background-color: #E63946;
+    color: #F1FAEE;
+    height: 49px;
+    width: 175px;
+    border-color: #E63946;
+}
+
+.bnt-admin{
+    background-color: #E63946;
+    color:#F1FAEE;
+    height: 49px;
+    width: 175px;
+    border-color: #E63946;
+}
+
+
+.a-home{
+    background-color: #E63946;
+    text-decoration: none;
+    color:#F1FAEE;
+}
+.a-admin{
+    background-color: #E63946;
+    text-decoration: none;
+    color:#F1FAEE;
+}
+
+/*Farmacia-Cadastro*/
+
+#cad{
+    background-color: #457B9D;
+    border-radius: 25px;
+    height: 635px;
+    width: 458px;
+    box-shadow:#1D3557 3px 3px 3px 3px;
+   margin-left: 160px;
+}
+
+#h1-farm{
+   color:#E63946;
+   font-family: 'Roboto', sans-serif;
+   font-size: 40px;
+}
+
+
+
